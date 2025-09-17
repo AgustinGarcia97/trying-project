@@ -1,2 +1,2 @@
-"#Algun repositorio nuevo  -cambiado desde rama nueva rama"
-Algo de esta rama 
+# Bienvenido
+Este es mi proyecto con Git desde main
